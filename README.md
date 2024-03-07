@@ -17,7 +17,6 @@ One notable limitation of the system is its letter sensitivity. The system relie
 
 ## Demo Usuage
 
-**Most Sold Month**
 
 Below given the front page of the web app.
 
@@ -29,7 +28,6 @@ To test the recommender system go to the recommend button which will direct you 
 
 ![Screenshot 2024-03-08 040734](https://github.com/hasanmehedi2309/book_recommendation_system/assets/98232012/01e96a4a-c0a0-4094-9e0d-5eb72150cde2)
 
-Population of CA is high and more tourist comes in this place every year. Besides many high tech companies are stationed there. So, the sales in those areas would also be very high. This could be a reason for it becoming most saled city.
 
 
 ## 🛠 Skills
