@@ -6,7 +6,10 @@
 
 https://book-recommendation-system-w7co.onrender.com/
 
+if you click the web app link then please wait a bit as it is hosted on a free website and response time is late
+
 **Description & Filtering Process**
+
 The Book Recommender System developed employs Collaborative Filtering, a technique widely used for recommendation systems. However, it adopts a unique approach by focusing only on users who have reviewed 50 or more books, thereby prioritizing knowledgeable users. This strategy enhances the quality of recommendations by leveraging insights from experienced and active readers.
 
 **Limitations**
