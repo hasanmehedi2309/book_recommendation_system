@@ -1,4 +1,3 @@
 Flask
 Gunicorn
-Pickle
-Numpy
+numpy
